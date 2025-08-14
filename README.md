@@ -9,6 +9,9 @@ Soy Luis Gerardo, programador apasionado por la tecnología. En este perfil comp
 
 ## Contactame por mis redes sociales
 
+<a href="https://www.gerardomarquez.dev/">
+  <img align="left" alt="Luis Gerardo Marquez | Pagina WEB" width="22px" src="https://www.gerardomarquez.dev/assets/linkedin.svg" />
+</a>
 <a href="https://www.linkedin.com/in/luis-marquez-168080177/">
   <img align="left" alt="Luis Gerardo Marquez | Linkedin" width="22px" src="https://www.gerardomarquez.dev/assets/linkedin.svg" />
 </a>
@@ -20,6 +23,9 @@ Soy Luis Gerardo, programador apasionado por la tecnología. En este perfil comp
 </a>
 <a href="https://www.instagram.com/gerardomarquezdev">
   <img align="left" alt="Luis Gerardo Marquez | Instagram" width="22px" src="https://www.gerardomarquez.dev/assets/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/@LGerardoMarquez">
+  <img align="left" alt="Luis Gerardo Marquez | YouTube" width="22px" src="https://www.gerardomarquez.dev/assets/youtube.svg" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
