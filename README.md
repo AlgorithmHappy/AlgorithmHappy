@@ -10,7 +10,7 @@ Soy Luis Gerardo, programador apasionado por la tecnología. En este perfil comp
 ## Contactame por mis redes sociales
 
 <a href="https://www.gerardomarquez.dev/">
-  <img align="left" alt="Luis Gerardo Marquez | Pagina WEB" width="22px" src="https://www.gerardomarquez.dev/assets/linkedin.svg" />
+  <img align="left" alt="Luis Gerardo Marquez | Pagina WEB" width="22px" src="https://www.gerardomarquez.dev/assets/web.svg" />
 </a>
 <a href="https://www.linkedin.com/in/luis-marquez-168080177/">
   <img align="left" alt="Luis Gerardo Marquez | Linkedin" width="22px" src="https://www.gerardomarquez.dev/assets/linkedin.svg" />
