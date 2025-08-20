@@ -34,12 +34,10 @@ Soy Luis Gerardo, programador apasionado por la tecnología. En este perfil comp
 
 ## Mis estadisticas en github
 
-<p align="center">
-<a href="https://github.com/AVS1508">
+<div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlgorithmHappy&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlgorithmHappy&layout=compact&langs_count=8&theme=graywhite"/>
-</a>
-</p>
+</div>
 
 <div align=center>
   
