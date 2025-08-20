@@ -11,22 +11,22 @@ Soy Luis Gerardo, programador apasionado por la tecnología. En este perfil comp
 
 ## Contactame por mis redes sociales
 
-<a href="https://www.gerardomarquez.dev/">
+<a href="https://www.gerardomarquez.dev/" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | Pagina WEB" width="22px" src="https://www.gerardomarquez.dev/assets/web.svg" />
 </a>
-<a href="https://www.linkedin.com/in/luis-marquez-168080177/">
+<a href="https://www.linkedin.com/in/luis-marquez-168080177/" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | Linkedin" width="22px" src="https://www.gerardomarquez.dev/assets/linkedin.svg" />
 </a>
-<a href="https://x.com/lgerardomarquez">
+<a href="https://x.com/lgerardomarquez" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | X" width="22px" src="https://www.gerardomarquez.dev/assets/x.svg" />
 </a>
-<a href="https://www.facebook.com/people/Gerardo-Marquez-Dev/61578969874237">
+<a href="https://www.facebook.com/people/Gerardo-Marquez-Dev/61578969874237" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | Facebook" width="22px" src="https://www.gerardomarquez.dev/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/gerardomarquezdev">
+<a href="https://www.instagram.com/gerardomarquezdev" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | Instagram" width="22px" src="https://www.gerardomarquez.dev/assets/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/@LGerardoMarquez">
+<a href="https://www.youtube.com/@LGerardoMarquez" target="_blank">
   <img align="left" alt="Luis Gerardo Marquez | YouTube" width="22px" src="https://www.gerardomarquez.dev/assets/youtube.svg" />
 </a>
 
